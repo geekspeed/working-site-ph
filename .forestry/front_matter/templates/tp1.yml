@@ -7,3 +7,5 @@ fields:
   name: login
   label: Login
   description: Login with your Email Addrss
+pages:
+- main.md
